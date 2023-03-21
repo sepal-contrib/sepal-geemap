@@ -8,3 +8,4 @@ toml
 sepal_ui
 
 # custom libs
+geemap
