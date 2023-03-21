@@ -9,3 +9,4 @@ sepal_ui
 
 # custom libs
 geemap
+ipywidgets>=8.0.4
